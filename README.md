@@ -10,6 +10,6 @@ This project demonstrates the implementation of a hybrid identity environment, b
 - **Troubleshooting:** Resolved AADSTS700016 errors and managed UPN suffix routing.
 
 ## Documentation
-The full step-by-step build guide, including screenshots of the configuration and troubleshooting logs, is available in the PDF above.
+The full step-by-step build guide, including screenshots of the configuration and troubleshooting logs, is available in the PDF below.
 
 [View the Full Lab Documentation (PDF)](./Hybrid_identity_lab.pdf)
